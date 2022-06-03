@@ -1,0 +1,2 @@
+# AudioPlatform
+nestjs, mongodb, nextjs
